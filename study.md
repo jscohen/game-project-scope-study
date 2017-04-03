@@ -41,6 +41,6 @@ You may want to submit pictures for your wireframes and/or user stories.
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 has instructions to link to a picture you've uploaded to a service like [Imgur](http://imgur.com/).
 
-Wireframe: ![wireframe](http://imgur.com/vfEc5af)
+Wireframe: [wireframe](http://imgur.com/vfEc5af "Wireframe")
 
-Game Logic: ![gamelogic](http://imgur.com/NGiAYz8)
+Game Logic: [gamelogic](http://imgur.com/NGiAYz8 "Game Logic")
